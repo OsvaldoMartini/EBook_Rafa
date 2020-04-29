@@ -2434,7 +2434,7 @@
 																"font",
 																{
 																	style: {
-																		color: "#dc3545",
+																		color: "#33b5e5",
 																	},
 																},
 																"você ganhou  7 DIAS GRÁTIS"
