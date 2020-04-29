@@ -2421,8 +2421,8 @@
 														"div",
 														{ className: "col-md-12 text-center" },
 														o.a.createElement(
-															"h1",
-															{ className: "display-3 mb-4" },
+															"h2",
+															{ className: "display-5 mb-4" },
 															"Parabéns pela aquisição do e-book, você o receberá por e-mail em breve. Management Tool"
 														),
 														o.a.createElement(
