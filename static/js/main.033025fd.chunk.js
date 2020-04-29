@@ -2430,20 +2430,17 @@
 															{ className: "display-4 mb-4" },
 															"Agora "
 														),
-                                                        o.a.createElement(
-                                                            "div",
-                                                            {
-                                                                style: {
-                                                                    width: "100%",
-                                                                    marginTop: ".25rem",
-                                                                    fontSize: "80%",
-                                                                    color: "#dc3545",
-                                                                },
-                                                            },
-                                                            "você ganhou  7 DIAS GRÁTIS",
-                                                        o.a.createElement(
+														o.a.createElement(
 															"font",
-															"você ganhou  7 DIAS GRÁTIS do no nosso curso completo de Marketing Digital!"
+															{
+																style: {
+																	width: "100%",
+																	marginTop: ".25rem",
+																	fontSize: "80%",
+																	color: "#dc3545",
+																},
+															},
+															"você ganhou  7 DIAS GRÁTIS"
 														),
 														o.a.createElement(
 															"p",
