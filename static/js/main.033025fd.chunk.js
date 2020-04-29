@@ -2427,8 +2427,28 @@
 														),
 														o.a.createElement(
 															"p",
-															{ className: "lead" },
-															"Agora você ganhou  7 DIAS GRÁTIS do no nosso curso completo de Marketing Digital!"
+															{ className: "display-4 mb-4" },
+															"Agora "
+														),
+                                                        o.a.createElement(
+                                                            "div",
+                                                            {
+                                                                style: {
+                                                                    width: "100%",
+                                                                    marginTop: ".25rem",
+                                                                    fontSize: "80%",
+                                                                    color: "#dc3545",
+                                                                },
+                                                            },
+                                                            "você ganhou  7 DIAS GRÁTIS",
+                                                        o.a.createElement(
+															"font",
+															"você ganhou  7 DIAS GRÁTIS do no nosso curso completo de Marketing Digital!"
+														),
+														o.a.createElement(
+															"p",
+															{ className: "display-4 mb-4" },
+															"do no nosso curso completo de Marketing Digital!"
 														),
 														o.a.createElement("hr", null),
 														o.a.createElement(
