@@ -2428,24 +2428,22 @@
 														o.a.createElement(
 															"p",
 															{ className: "display-4 mb-4" },
-															"Agora "
-														),
-														o.a.createElement(
-															"font",
-															{
-																style: {
-																	width: "100%",
-																	marginTop: ".25rem",
-																	fontSize: "80%",
-																	color: "#dc3545",
+															"Agora ",
+
+															o.a.createElement(
+																"font",
+																{
+																	style: {
+																		color: "#dc3545",
+																	},
 																},
-															},
-															"você ganhou  7 DIAS GRÁTIS"
-														),
-														o.a.createElement(
-															"p",
-															{ className: "display-4 mb-4" },
-															"do no nosso curso completo de Marketing Digital!"
+																"você ganhou  7 DIAS GRÁTIS"
+															),
+															o.a.createElement(
+																"p",
+																{ className: "display-4 mb-4" },
+																"do no nosso curso completo de Marketing Digital!"
+															)
 														),
 														o.a.createElement("hr", null),
 														o.a.createElement(
