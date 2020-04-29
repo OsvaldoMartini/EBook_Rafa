@@ -2425,8 +2425,7 @@
 															{
 																className: "display-5 mb-4",
 																style: {
-																	width: "100%",
-																	fontSize: "80%",
+																	fontSize: "180%",
 																},
 															},
 
@@ -2434,7 +2433,12 @@
 														),
 														o.a.createElement(
 															"h2",
-															{ className: "display-4 mb-4" },
+															{
+																className: "display-5 mb-4",
+																style: {
+																	fontSize: "190%",
+																},
+															},
 															"Agora ",
 
 															o.a.createElement(
