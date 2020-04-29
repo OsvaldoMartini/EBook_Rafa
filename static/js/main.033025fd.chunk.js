@@ -2423,12 +2423,12 @@
 														o.a.createElement(
 															"h2",
 															{ className: "display-5 mb-4" },
-															"Parabéns pela aquisição do e-book, você o receberá por e-mail em breve. Management Tool"
+															"Parabéns pela aquisição do e-book, você o receberá por e-mail em breve."
 														),
 														o.a.createElement(
 															"p",
 															{ className: "lead" },
-															"Create your account to join active projects / automation tests or start your own"
+															"Agora você ganhou  7 DIAS GRÁTIS do no nosso curso completo de Marketing Digital!"
 														),
 														o.a.createElement("hr", null),
 														o.a.createElement(
