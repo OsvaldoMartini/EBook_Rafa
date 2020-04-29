@@ -2445,23 +2445,7 @@
 																"do no nosso curso completo de Marketing Digital!"
 															)
 														),
-														o.a.createElement("hr", null),
-														o.a.createElement(
-															d.b,
-															{
-																className: "btn btn-lg btn-primary mr-2",
-																to: "/register",
-															},
-															"Sign Up"
-														),
-														o.a.createElement(
-															d.b,
-															{
-																className: "btn btn-lg btn-secondary mr-2",
-																to: "/login",
-															},
-															"Login"
-														)
+														o.a.createElement("hr", null)
 													)
 												)
 											)
