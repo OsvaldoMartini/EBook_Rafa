@@ -2450,7 +2450,7 @@
 																},
 																"você ganhou  7 DIAS GRÁTIS"
 															),
-															"do no nosso curso completo de Marketing Digital!"
+															" do no nosso curso completo de Marketing Digital!"
 														),
 														o.a.createElement("hr", null)
 													)
@@ -7170,12 +7170,28 @@
 										o.a.createElement(
 											"h1",
 											{ className: "display-3 mb-4" },
-											"Parabéns pela aquisição do e-book, você o receberá por e-mail em breve. Management Tool"
+											"Parabéns pela aquisição do e-book, você o receberá por e-mail em breve."
 										),
 										o.a.createElement(
-											"p",
-											{ className: "lead" },
-											"Create your account to join active projects / automation tests or start your own"
+											"h2",
+											{
+												className: "display-5 mb-4",
+												style: {
+													fontSize: "190%",
+												},
+											},
+											"Agora ",
+
+											o.a.createElement(
+												"font",
+												{
+													style: {
+														color: "#33b5e5",
+													},
+												},
+												"você ganhou  7 DIAS GRÁTIS"
+											),
+											" do no nosso curso completo de Marketing Digital!"
 										)
 									)
 								)
