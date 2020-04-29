@@ -2422,11 +2422,18 @@
 														{ className: "col-md-12 text-center" },
 														o.a.createElement(
 															"h2",
-															{ className: "display-5 mb-4" },
+															{
+																className: "display-5 mb-4",
+																style: {
+																	width: "100%",
+																	fontSize: "80%",
+																},
+															},
+
 															"Parabéns pela aquisição do e-book, você o receberá por e-mail em breve."
 														),
 														o.a.createElement(
-															"p",
+															"h2",
 															{ className: "display-4 mb-4" },
 															"Agora ",
 
@@ -2439,11 +2446,7 @@
 																},
 																"você ganhou  7 DIAS GRÁTIS"
 															),
-															o.a.createElement(
-																"p",
-																{ className: "display-4 mb-4" },
-																"do no nosso curso completo de Marketing Digital!"
-															)
+															"do no nosso curso completo de Marketing Digital!"
 														),
 														o.a.createElement("hr", null)
 													)
