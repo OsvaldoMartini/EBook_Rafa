@@ -613,7 +613,38 @@
 												)
 											)
 										);
-									return null;
+									return (
+										(e = a && n ? s : i),
+										o.a.createElement(
+											"nav",
+											{
+												className:
+													"navbar navbar-expand-sm navbar-dark bg-primary mb-4",
+											},
+											o.a.createElement(
+												"div",
+												{ className: "container" },
+												o.a.createElement(
+													d.b,
+													{ className: "navbar-brand", to: "/" },
+													"Automation Test Management Tool"
+												),
+												o.a.createElement(
+													"button",
+													{
+														className: "navbar-toggler",
+														type: "button",
+														"data-toggle": "collapse",
+														"data-target": "#mobile-nav",
+													},
+													o.a.createElement("span", {
+														className: "navbar-toggler-icon",
+													})
+												),
+												e
+											)
+										)
+									);
 								},
 							},
 						]),
