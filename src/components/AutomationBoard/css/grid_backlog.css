@@ -1,0 +1,93 @@
+.messages {
+	padding: 5% 0;
+	overflow: auto;
+	flex: auto;
+}
+
+.border {
+	border: 1.5px solid #dee2e6 !important;
+}
+
+.border-high {
+	border-color: #8b0000 !important;
+	background-color: #8b0000 !important;
+}
+
+.border-medium {
+	border-color: #ff8c00 !important;
+	background-color: #ff8c00 !important;
+}
+
+.border-req-resp {
+	border-color: #f4511e !important;
+	background-color: #f4511e !important;
+	color: #fff;
+}
+
+.border-dispute-all {
+	border-color: #aa00ff !important;
+	background-color: #aa00ff !important;
+	color: #fff;
+}
+
+.border-grid-backlog {
+	border-color: #2bbbad !important;
+	background-color: #2bbbad !important;
+	color: #fff;
+}
+
+.border-create-test {
+	border-color: #33b5e5 !important;
+	background-color: #33b5e5 !important;
+	color: #fff;
+}
+
+.border-auto-board {
+	border-color: #b39ddb !important;
+	background-color: #b39ddb !important;
+	color: #fff;
+}
+
+.border-low {
+	border-color: #8fbc8f !important;
+	background-color: #8fbc8f !important;
+}
+
+.border-empty {
+	border-color: #f8f9fa !important;
+	background-color: #f8f9fa !important;
+}
+
+.event-loop-item {
+	background: #ddd;
+	margin: 5px;
+	padding: 5px;
+	margin-left: 0;
+	opacity: 0;
+	white-space: nowrap;
+}
+
+.background-x {
+	background-color: #bcbcbc;
+	width: 100px;
+	height: 50px;
+	padding: 0;
+	margin: 0;
+}
+.line1-x {
+	width: 112px;
+	height: 47px;
+	border-bottom: 1px solid red;
+	-webkit-transform: translateY(-20px) translateX(5px) rotate(27deg);
+	position: absolute;
+	/* top: -20px; */
+}
+.line2-x {
+	width: 112px;
+	height: 47px;
+	border-bottom: 1px solid green;
+	-webkit-transform: translateY(20px) translateX(5px) rotate(-26deg);
+	position: absolute;
+	top: -33px;
+	left: -13px;
+}

@@ -1,0 +1,17 @@
+ERROR [main] (PropetiesParser.java:51) - Error finding properties file.
+java.io.FileNotFoundException: C:\QA\ProjectsGIT\PST2635-COP1-ConvenienceCardWebSite2020\PST2635-COP1-ConvenienceCardWebSite2020-executionVariables.properties (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at ch.corner.card.qa.soapUiRqmImporter.util.parser.PropetiesParser.parse(PropetiesParser.java:41)
+	at ch.corner.card.qa.soapUiRqmImporter.main.Main.main(Main.java:134)
+ INFO [main] (Main.java:161) - RQM connecting
+ INFO [main] (Main.java:170) - RQM connection established
+ INFO [main] (Main.java:173) - parsing project xml
+ INFO [main] (Main.java:176) - xml parsing completed
+ INFO [main] (Main.java:186) - updating the existing Test Plan : PST2635-COP1-ConvenienceCardWebSite2020
+ INFO [main] (Main.java:193) - synchronizing single suite GetProfile from SoapUi to Jazz
+ INFO [main] (JazzRqmProjectUpdater.java:278) - adding Test Suite in Jazz: GetProfile
+ INFO [main] (JazzRqmProjectUpdater.java:336) - updating Test Plan : PST2635-COP1-ConvenienceCardWebSite2020
+ INFO [main] (Main.java:199) - RQM import completed
